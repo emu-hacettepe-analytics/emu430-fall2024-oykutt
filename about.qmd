@@ -5,26 +5,42 @@ sidebar: false
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2020 - ongoing.
 
 # Work Experience
 
-## Employements
-
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
-
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+1.  **Mercedes-Benz Turk A.Ş.**, PEP Intern (Process Planning), 2024
 
-2.  Firm bbb, position yyy, year yyy
+2.  **Grammer A.Ş.**, Process Planning Intern, 2023
 
-# Projects
+3.  **Anadolu Isuzu A.Ş.**, Talent Pick-Up Intro Intern, 2023
+
+# Projects & Communities
+
+**Erasmus+ Student Exchange Project**, Duisburg-Essen Universty, 2023-2024 Fall Semester
+
+**Hacettepe University Otomotiv Toplulğu (HOT)**, (2022-2024)
+
+**Hacettepe University Endüstri ve Sistem Topluluğu (HENDS)**, (2020-2022)
 
 # Competencies
 
-R, Quarto, Git, Python
+-   R, Quarto, Git,
+
+-   MS Office Programs (Excel, PowerPoint..)
+
+-   AutoCad
+
+-   Arena
 
 # Hobbies
+
+-   Piano
+
+-   Fitness
+
+-   Drawing
+
+-   Swimming
