@@ -44,3 +44,7 @@ sidebar: false
 -   Drawing
 
 -   Swimming
+
+# Download My CV
+
+You can download my CV [here](cv/OykuTutuncuCV.pdf)
