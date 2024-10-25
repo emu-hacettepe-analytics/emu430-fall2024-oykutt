@@ -2,14 +2,59 @@
 title: "Assignment 1"
 ---
 
-# Assignment 1
-
-```{r}
-1 + 1
-```
-
 My first assignment has two parts.
 
-## (a)
+## a) Conversations on Data Science and Industrial Engineering - Baykal Hafızoğlu & Erdi Daşdemir
+
+This conversation with Baykal Hafızoğlu and Erdi Daşdemir shares their experiences and insights in the fields of data science and industrial engineering. They discuss the role of artificial intelligence in industrial engineering applications alongside data analytics, addressing how analytical solutions and optimization models can be used to solve problems. Additionally, they share details about their personal career journeys, the challenges of transitioning from academia to industry, experiences in developing supply chain software, and the use of data science tools.
+
+## Questions
+
+**Q1.** Please sort descriptive, predictive, prescriptive analytics in increasing complexity.
+
+**A1.** Descriptive Analytics \< Predictive Analytics \< Prescriptive Analytics
+
+**Q2.** Which of the following is not related to descriptive analytics?
+
+-   
+
+    a)  Data Mining
+
+-   **b) Simulation**
+
+-   
+
+    c)  Time Series Analysis
+
+-   
+
+    d)  Data Visualization
 
 ## (b)
+
+```{r}
+install.packages("dslabs") 
+library(dslabs)
+
+data("polls_us_election_2016")
+
+birth_year <- 2002
+first_name <- "oyku"
+
+polls_us_election_2016_modified <- polls_us_election_2016
+
+for (i in 1:nrow(polls_us_election_2016_modified)) {
+    for (j in 1:ncol(polls_us_election_2016_modified)) {
+        if (is.na(polls_us_election_2016_modified[i, j])) {
+            if (is.numeric(polls_us_election_2016_modified[[j]])) {
+                polls_us_election_2016_modified[i, j] <- birth_year
+            } else {
+                polls_us_election_2016_modified[i, j] <- first_name
+            }
+        }
+    }
+}
+
+head(polls_us_election_2016_modified, 10)
+
+```

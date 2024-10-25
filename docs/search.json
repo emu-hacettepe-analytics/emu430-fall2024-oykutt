@@ -42,7 +42,7 @@
     "href": "assignments/assignment-1.html",
     "title": "Assignment 1",
     "section": "",
-    "text": "1 + 1\n\n[1] 2\n\n\nMy first assignment has two parts.",
+    "text": "My first assignment has two parts.",
     "crumbs": [
       "Assignment 1"
     ]
@@ -52,7 +52,7 @@
     "href": "assignments.html",
     "title": "My Assignments",
     "section": "",
-    "text": "On this page, I showcase the assignment I conducted for the [term and year, e.g. Fall 2024] EMU430 Data Analytics course.\nPlease use left menu to navigate through my assignments.\nThe most recent update to this page was made on October 10, 2024\n\n\n\n Back to top",
+    "text": "On this page, I showcase the assignment I conducted for the Fall 2024 EMU430 Data Analytics course.\nPlease use left menu to navigate through my assignments.\nThe most recent update to this page was made on October 25, 2024\n\n\n\n Back to top",
     "crumbs": [
       "My Assignments"
     ]
@@ -63,5 +63,65 @@
     "title": "My Blog",
     "section": "",
     "text": "This page is under construction.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "assignments/assignment-1.html#conversations-on-data-science-and-industrial-engineering---baykal-hafızoğlu-erdi-daşdemir",
+    "href": "assignments/assignment-1.html#conversations-on-data-science-and-industrial-engineering---baykal-hafızoğlu-erdi-daşdemir",
+    "title": "Assignment 1",
+    "section": "Conversations on Data Science and Industrial Engineering - Baykal Hafızoğlu & Erdi Daşdemir",
+    "text": "Conversations on Data Science and Industrial Engineering - Baykal Hafızoğlu & Erdi Daşdemir\nThis conversation with Baykal Hafızoğlu and Erdi Daşdemir shares their experiences and insights in the fields of data science and industrial engineering. They discuss the role of artificial intelligence in industrial engineering applications alongside data analytics, addressing how analytical solutions and optimization models can be used to solve problems. Additionally, they share details about their personal career journeys, the challenges of transitioning from academia to industry, experiences in developing supply chain software, and the use of data science tools.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#conversations-on-data-science-and-industrial-engineering---baykal-hafd1zodlu-erdi-daedemir",
+    "href": "assignments/assignment-1.html#conversations-on-data-science-and-industrial-engineering---baykal-hafd1zodlu-erdi-daedemir",
+    "title": "Assignment 1",
+    "section": "Conversations on Data Science and Industrial Engineering - Baykal HafD1zoD\u001flu & Erdi DaE\u001fdemir",
+    "text": "Conversations on Data Science and Industrial Engineering - Baykal HafD1zoD\u001flu & Erdi DaE\u001fdemir\nThis conversation with Baykal HafD1zoD\u001flu and Erdi DaE\u001fdemir shares their experiences and insights in the fields of data science and industrial engineering. They discuss the role of artificial intelligence in industrial engineering applications alongside data analytics, addressing how analytical solutions and optimization models can be used to solve problems. Additionally, they share details about their personal career journeys, the challenges of transitioning from academia to industry, experiences in developing supply chain software, and the use of data science tools.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#questions",
+    "href": "assignments/assignment-1.html#questions",
+    "title": "Assignment 1",
+    "section": "Questions",
+    "text": "Questions\nQ1. Please sort descriptive, predictive, prescriptive analytics in increasing complexity.\nA1. Descriptive Analytics &lt; Predictive Analytics &lt; Prescriptive Analytics\nQ2. Which of the following is not related to descriptive analytics?\n\n\nData Mining\n\nb) Simulation\n\nTime Series Analysis\n\n\nData Visualization",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#b",
+    "href": "assignments/assignment-1.html#b",
+    "title": "Assignment 1",
+    "section": "(b)",
+    "text": "(b)",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#conversations-on-data-science-and-industrial-engineering---baykal-hafzolu-erdi-dademir",
+    "href": "assignments/assignment-1.html#conversations-on-data-science-and-industrial-engineering---baykal-hafzolu-erdi-dademir",
+    "title": "Assignment 1",
+    "section": "Conversations on Data Science and Industrial Engineering - Baykal Haf??zo??lu & Erdi Da??demir",
+    "text": "Conversations on Data Science and Industrial Engineering - Baykal Haf??zo??lu & Erdi Da??demir\nThis conversation with Baykal Haf??zo??lu and Erdi Da??demir shares their experiences and insights in the fields of data science and industrial engineering. They discuss the role of artificial intelligence in industrial engineering applications alongside data analytics, addressing how analytical solutions and optimization models can be used to solve problems. Additionally, they share details about their personal career journeys, the challenges of transitioning from academia to industry, experiences in developing supply chain software, and the use of data science tools.",
+    "crumbs": [
+      "Assignment 1"
+    ]
+  },
+  {
+    "objectID": "assignments/assignment-1.html#a-conversations-on-data-science-and-industrial-engineering---baykal-hafızoğlu-erdi-daşdemir",
+    "href": "assignments/assignment-1.html#a-conversations-on-data-science-and-industrial-engineering---baykal-hafızoğlu-erdi-daşdemir",
+    "title": "Assignment 1",
+    "section": "a) Conversations on Data Science and Industrial Engineering - Baykal Hafızoğlu & Erdi Daşdemir",
+    "text": "a) Conversations on Data Science and Industrial Engineering - Baykal Hafızoğlu & Erdi Daşdemir\nThis conversation with Baykal Hafızoğlu and Erdi Daşdemir shares their experiences and insights in the fields of data science and industrial engineering. They discuss the role of artificial intelligence in industrial engineering applications alongside data analytics, addressing how analytical solutions and optimization models can be used to solve problems. Additionally, they share details about their personal career journeys, the challenges of transitioning from academia to industry, experiences in developing supply chain software, and the use of data science tools.",
+    "crumbs": [
+      "Assignment 1"
+    ]
   }
 ]

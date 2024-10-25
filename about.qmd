@@ -11,19 +11,19 @@ sidebar: false
 
 ## Internships
 
-1.  **Mercedes-Benz Turk A.Ş.**, PEP Intern (Process Planning), 2024
+1.  **Mercedes-Benz Turk A.E.**, PEP Intern (Process Planning), 2024
 
-2.  **Grammer A.Ş.**, Process Planning Intern, 2023
+2.  **Grammer A.E.**, Process Planning Intern, 2023
 
-3.  **Anadolu Isuzu A.Ş.**, Talent Pick-Up Intro Intern, 2023
+3.  **Anadolu Isuzu A.E.**, Talent Pick-Up Intro Intern, 2023
 
 # Projects & Communities
 
 **Erasmus+ Student Exchange Project**, Duisburg-Essen Universty, 2023-2024 Fall Semester
 
-**Hacettepe University Otomotiv Toplulğu (HOT)**, (2022-2024)
+**Hacettepe University Otomotiv ToplulDu (HOT)**, (2022-2024)
 
-**Hacettepe University Endüstri ve Sistem Topluluğu (HENDS)**, (2020-2022)
+**Hacettepe University EndC\<stri ve Sistem TopluluDu (HENDS)**, (2020-2022)
 
 # Competencies
 
@@ -47,4 +47,4 @@ sidebar: false
 
 # Download My CV
 
-You can download my CV [here](cv/OykuTutuncuCV.pdf)
+[You can download my CV here](cv/OykuTutuncuCV.pdf)
