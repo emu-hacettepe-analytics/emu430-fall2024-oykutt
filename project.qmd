@@ -3,10 +3,10 @@ title: "Our Course Project"
 sidebar: false 
 ---
 
-I'm honored to be a member of the \[group name\] project team.
+I'm honored to be a member of the **Team Petra** project team.
 
-Below, you'll find a brief summary of our project. To access a detailed project description, please go to [https://\[your-project-url\]](#0){.uri}.
+Below, you'll find a brief summary of our project. To access a detailed project description, please go to <https://emu-hacettepe-analytics.github.io/emu430-fall2024-team-team_petra/>
 
 **Summary**
 
-\[provide a biref summary of your project\]
+Poverty and crime are two pervasive societal issues that often exhibit a complex relationship. Our study aims to explore the impact of poverty rates on crime, focusing on the interplay between socioeconomic disparities and criminal behavior. Using data analytics techniques, we analyze crime statistics and poverty rates across various regions to uncover potential correlations and causations.
